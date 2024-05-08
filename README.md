@@ -1,6 +1,7 @@
 <H3>Name</H3>Elamaran S E
 <H3>Register no.</H3>212222230036
 <H3>Experiment No. 2 
+ 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
